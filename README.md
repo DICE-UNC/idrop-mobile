@@ -4,4 +4,3 @@
 This will eventually hold a phonegap proto of an iDrop interface
 
 
-edit
