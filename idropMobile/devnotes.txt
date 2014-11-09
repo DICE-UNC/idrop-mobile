@@ -25,3 +25,14 @@ cordova plugin add org.apache.cordova.splashscreen
 Ratchet is mobile bootstrap equivalent
 
 http://goratchet.com
+
+
+
+
+
+build and run
+-------------
+
+cordova build
+
+cordova emulate android
