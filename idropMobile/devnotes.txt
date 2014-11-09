@@ -22,3 +22,6 @@ This plugin displays and hides a splash screen during application launch.
 cordova plugin add org.apache.cordova.splashscreen
 
 
+Ratchet is mobile bootstrap equivalent
+
+http://goratchet.com
