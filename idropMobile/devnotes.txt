@@ -1,0 +1,24 @@
+plugins used
+------------
+
+
+http://plugins.cordova.io/#/package/org.apache.cordova.file
+This plugin implements a File API allowing read/write access to files residing on the device.
+
+cordova plugin add org.apache.cordova.file
+
+
+
+http://plugins.cordova.io/#/package/org.apache.cordova.file-transfer
+This plugin allows you to upload and download files.
+
+cordova plugin add org.apache.cordova.file-transfer
+
+
+
+http://plugins.cordova.io/#/package/org.apache.cordova.splashscreen
+This plugin displays and hides a splash screen during application launch.
+
+cordova plugin add org.apache.cordova.splashscreen
+
+
