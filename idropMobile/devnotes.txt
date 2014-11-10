@@ -36,3 +36,8 @@ build and run
 cordova build
 
 cordova emulate android
+
+
+
+
+http://tech.pro/tutorial/1336/phonegap-and-angularjs-the-start
